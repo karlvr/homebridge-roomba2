@@ -4,7 +4,7 @@
   "customUi": true,
   "singular": true,
   "customUiPath": "./dist/homebridge-ui",
-  "headerDisplay": "For more information and help please consult the [README](https://github.com/homebridge-plugins/homebridge-roomba2#setup).",
+  "headerDisplay": "For more information and help please consult the [README](https://github.com/homebridge-plugins/homebridge-roomba#setup).",
   "schema": {
     "type": "object",
     "properties": {

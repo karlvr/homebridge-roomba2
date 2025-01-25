@@ -8,6 +8,6 @@ describe('settings', () => {
   })
 
   it('should have the correct plugin name', () => {
-    expect(PLUGIN_NAME).toBe('@homebridge-plugins/homebridge-roomba2')
+    expect(PLUGIN_NAME).toBe('@homebridge-plugins/homebridge-roomba')
   })
 })
