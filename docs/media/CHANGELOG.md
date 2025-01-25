@@ -5,7 +5,6 @@
 ### What's Changes
 #### Major Changes
 - Change from `Accessory` base to `Platform` based Plugin
-  - ***You will need to re-setup your vacuum***
 
 **Full Changelog**: https://github.com/homebridge-plugins/homebridge-roomba/compare/v1.5.3...v2.0.0
 
